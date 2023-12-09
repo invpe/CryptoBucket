@@ -2,6 +2,7 @@
 This is a list of some of the utilities i wrote when working with Helium and Solana (past Helium2Solana migration).
 The code isn't beauty, won't be beauty but has to work.
 
+## Generate wallet address given mnemonic of 12 words (helium)
 
 
 
