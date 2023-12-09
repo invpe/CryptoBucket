@@ -3,7 +3,7 @@ This is a list of some of the utilities i wrote when working with Helium and Sol
 The code isn't beauty, won't be beauty but has to work.
 
 ## Generate wallet address given mnemonic of 12 words (helium)
-
+`./a.out "crush desk brain index action subject tackle idea trim unveil lawn live"`
 
 
 ## Seed2SolWallet (sod)
