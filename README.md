@@ -1,6 +1,9 @@
 # What is this
-This is a list of some of the utilities i wrote when working with Helium and Solana (past Helium2Solana migration).
+This is a list of some of the utilities i wrote when working with Helium, Solana (past Helium2Solana migration), and BTC.
 The code isn't beauty, won't be beauty but has to work.
+
+## Solo lottery miner in PHP ( 😄 )
+Yeah you can do it, check the btclotek.php
 
 ## Generate wallet address given mnemonic of 12 words (helium)
 `./a.out "crush desk brain index action subject tackle idea trim unveil lawn live"`
